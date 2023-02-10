@@ -1,0 +1,1 @@
+__all__=["garde","objets","personnage","vision","voleur"]
